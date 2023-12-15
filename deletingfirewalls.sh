@@ -25,4 +25,3 @@ else
     echo "Unsupported system: Unable to save and apply iptables rules."
     exit 1
 fi
-
